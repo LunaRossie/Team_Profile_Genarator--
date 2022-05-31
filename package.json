@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LunaRossie/Team_Profile_Genarator--/issues"
   },
-  "homepage": "https://github.com/LunaRossie/Team_Profile_Genarator--#readme"
+  "homepage": "https://github.com/LunaRossie/Team_Profile_Genarator--#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
