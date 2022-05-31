@@ -1,0 +1,20 @@
+{
+  "name": "team_profile_genarator--",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunaRossie/Team_Profile_Genarator--.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LunaRossie/Team_Profile_Genarator--/issues"
+  },
+  "homepage": "https://github.com/LunaRossie/Team_Profile_Genarator--#readme"
+}
