@@ -214,7 +214,7 @@ inquirer
         }
         modele.exports = Employee
 
-    const employee = require('./lib/employee');
+    const employee = require('./lib/Employee');
 
     class Engineer extends Employee{
         constructor(name, id, email, github){
